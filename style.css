@@ -1,0 +1,15 @@
+body{
+  background-color: aquamarine;
+}
+p{
+  background-color: rgb(red, green, blue);
+}
+div{
+  background-color: yellow;
+}
+span{
+  background-color: rgb(215, 10, 10);
+}
+first{
+  background-color: brown;
+}
